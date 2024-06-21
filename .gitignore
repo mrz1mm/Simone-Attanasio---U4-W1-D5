@@ -1,0 +1,10 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/U4-W1-D5/.vs/U4-W1-D5
+/U4-W1-D5/U4-W1-D5/bin/Debug/net8.0
+/U4-W1-D5/U4-W1-D5/obj/Debug/net8.0/ref
+/U4-W1-D5/U4-W1-D5/obj/Debug/net8.0/refint
+/U4-W1-D5/U4-W1-D5/obj/Debug/net8.0
+/U4-W1-D5/U4-W1-D5/obj
